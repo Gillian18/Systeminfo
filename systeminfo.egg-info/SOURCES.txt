@@ -1,0 +1,17 @@
+.DS_Store
+.project
+.pydevproject
+setup.py
+systeminfo/.DS_Store
+systeminfo/.project
+systeminfo/__init__.py
+systeminfo/main.py
+systeminfo/requirements.txt
+systeminfo.egg-info/PKG-INFO
+systeminfo.egg-info/SOURCES.txt
+systeminfo.egg-info/dependency_links.txt
+systeminfo.egg-info/entry_points.txt
+systeminfo.egg-info/top_level.txt
+systeminfo/__pycache__/__init__.cpython-36.pyc
+systeminfo/__pycache__/get_platform_info.cpython-36.pyc
+systeminfo/__pycache__/main.cpython-36.pyc
